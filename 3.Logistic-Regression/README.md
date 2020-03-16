@@ -28,10 +28,10 @@ The stopping criteria of batch gradient is that, when the error has not changed 
 When the learning rate greater than one, the number of the iteration will increase. it causes higher error, and unpredictable result. The following figure is the batch gradient with learning rate 0.1. 
 
 
-<img src="./READMEimage/BatchWithLr0.5.jpg" height="250">
-<img src="./READMEimage/batchlr1.jpg" height="250">
-<img src="./READMEimage/batchL10.jpg" height="250">
-<img src="./READMEimage/batchL50.jpg" height="250">
+<img src="./READMEimage/BatchWithLr0.5.jpg" height="400">
+<img src="./READMEimage/batchlr1.jpg" height="400">
+<img src="./READMEimage/batchL10.jpg" height="400">
+<img src="./READMEimage/batchL50.jpg" height="400">
 
 ***B.	Logistic Regression with Stochastic Gradient Descent***
 
@@ -76,10 +76,10 @@ Out sample: 0.452</br>
 
 	Comparing with batch gradient descent, with learning rate which are 0.1, 1, 10, the results of the error are still acceptable. The following are the figures with different learning rates. 
 
-<img src="./READMEimage/stochsticLr0.1.jpg" height="250">
-<img src="./READMEimage/stocksticLr1.jpg" height="250">
-<img src="./READMEimage/stcol10.jpg" height="250">
-<img src="./READMEimage/stockl50.jpg" height="250">
+<img src="./READMEimage/stochsticLr0.1.jpg" height="400">
+<img src="./READMEimage/stocksticLr1.jpg" height="400">
+<img src="./READMEimage/stcol10.jpg" height="400">
+<img src="./READMEimage/stockl50.jpg" height="400">
 
 
 
