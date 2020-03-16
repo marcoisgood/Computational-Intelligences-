@@ -1,4 +1,4 @@
-#Genetic Algorithm Crossover Comparison
+# Genetic Algorithm Crossover Comparison
 
 **Problem Statement:**</br>
 Use a genetic algorithm to find the global optimum of the following objective function:
