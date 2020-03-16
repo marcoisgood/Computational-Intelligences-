@@ -30,7 +30,7 @@ When the learning rate greater than one, the number of the iteration will increa
 
 <img src="./READMEimage/BatchWithLr0.5.jpg" height="400">
 <img src="./READMEimage/batchlr1.jpg" height="400">
-<img src="./READMEimage/batchL10.jpg" height="400">
+<img src="./READMEimage/batchl10.jpg" height="400">
 <img src="./READMEimage/batchL50.jpg" height="400">
 
 ***B.	Logistic Regression with Stochastic Gradient Descent***
