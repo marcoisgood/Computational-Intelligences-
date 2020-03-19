@@ -2,15 +2,15 @@
 
 ### Introduction
 
-![](./READMEimage/F1.png)
+![](./READMEImage/F1.png)
 
 ### Fuzzy C-Means
 
-![](./READMEimage/F2.png)
+![](./READMEImage/F2.png)
 
 ### Fuzzy C-Mean Algorithm
 
-![](./READMEimage/F3.png)
+![](./READMEImage/F3.png)
 
 
 ### Implementation
