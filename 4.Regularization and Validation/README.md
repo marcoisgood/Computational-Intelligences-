@@ -1,4 +1,4 @@
-#Regularization and Validation
+# Regularization and Validation
 
 
 In this project you will again be using the USPS Handwritten digit dataset: usps_modified.mat. Test your algorithms using the dataset to separate (classify) digit 1 from all other digits.
