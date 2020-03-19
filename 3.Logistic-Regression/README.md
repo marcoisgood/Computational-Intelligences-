@@ -1,5 +1,36 @@
 # Logistic Regression
 
+In this assignment you will again be using the USPS Handwritten digit dataset: usps_modified.mat
+
+
+
+
+### General Task
+
+* Create 2 algorithms:
+
+	- Logistic Regression with Batch Gradient Descent 
+ - Logistic Regression with Stochastic Gradient Descent
+
+* Test your algorithms using the dataset to separate (classify) digit 1 from all other digits.
+ - Separate the dataset into 2 parts: a training set and a verification set. For the training set pick 400 data points from each class. The remaining points will be your verification set. This will allow you to get an estimate of the in-sample and out-sample errors. There are 2 error measures you could construct: likelihood error (the one used in the version of gradient descent presented in class), and classification error (same as the previous assignment). 
+
+* Consider the stopping criteria to be used. The stopping criteria is constant source of debate in learning algorithms and the choice has consequences on computational effort (speed) and ability to get out of local minima (which isn't a concern for this assignment). There are 2 commonly used measures with 2 alternate methods (see below). Consider each, make a choice, and comment on why you made this choice.
+	- Based on the gradient:
+		- Gradient is small enough
+		- Gradient hasn't changed significantly in the last n - number of iterations
+	- Based on error:
+		- Error is small enough
+		- Error hasn't changed significantly in the last n - number of iteration
+
+* Compare the effects of learning rate on the algorithm.
+	- Test each algorithm with learning rates of: 0.1, 1, 10, 50. Run 10 times each for each rate. When running this, use a conservative stopping criteria. Plot this data on a scatter graph. Comment on the results.How might this change with stopping criteria?
+
+![](./READMEimage/F1.png)
+
+### Result
+
+
 ***A.	Logistic Regression with Batch Gradient Descent***
 
 1.	Errors in sample and out sample
